@@ -2,7 +2,7 @@
 
 ## AI/ML | Agentic AI | AI Automation | Data Engineering
 
-I am a technology professional with 5+ years of experience in Software Quality Engineering, AI and Data Engineering.
+I am a technology professional more than 5+ years of experience in Software Quality Engineering, AI and Data Engineering.
 
 I am passionate about building intelligent, reliable and explainable AI systems.
 
